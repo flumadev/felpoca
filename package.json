@@ -1,0 +1,16 @@
+{
+  "name": "felpoca",
+  "version": "1.0.0",
+  "description": "Script for boilerplate start in NextJS",
+  "bin": "./index.js",
+  "keywords": [],
+  "author": "Luis Amorim",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flumadev/felpoca"
+  },
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
